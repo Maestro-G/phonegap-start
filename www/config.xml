@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.Maestro-G.Web-War"
-        version   = "3.3.3">
+        id        = "com.phonegap.hello-world"
+        version   = "2.2.0">
     <name>WEB WAR</name>
 
     <description>
-        Strikingly darling & utterly unconventional 1st Hyperreality Game! 
+        Strikingly darling and utterly unconventional 1st Hyperreality Game! 
         Become the King of facebook or google’s Boss!
 
     </description>
 
-    <author href="http://1w2w3.com" >
-       1w2w3
+    <author href="http://phonegap.com" email="support@phonegap.com">
+        1w2w3
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
